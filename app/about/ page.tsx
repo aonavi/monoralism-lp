@@ -16,7 +16,7 @@ export default function About() {
         <h1 style={{ fontSize: 24, margin: 0 }}>monoraとは？</h1>
 
         <p style={{ color: "#374151", lineHeight: 1.8, marginTop: 10 }}>
-          ここに、あなたが今LPに書いている「コンセプト／ルール／購入の流れ／FAQ」などを移してください。
+          あなたが今LPに書いている「コンセプト／ルール／購入の流れ／FAQ」などを移してください。
           <br />
           （このページは“資料ページ”として使う想定）
         </p>
